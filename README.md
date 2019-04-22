@@ -9,3 +9,7 @@
 			print("hola mundo")
 		}
 	}
+
+<ceneter>
+![Animacion](imagen.gif)
+</center>
