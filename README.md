@@ -10,6 +10,6 @@
 		}
 	}
 
-<ceneter>
+<center>
 ![Animacion](imagen.gif)
 </center>
