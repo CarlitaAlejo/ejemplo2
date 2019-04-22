@@ -10,6 +10,8 @@
 		}
 	}
 
-<center>
-![Animacion](imagen.gif)
-</center>
+<div aling="center">
+	<center>
+		<img src=="imagen.gif">		
+	</center>
+</div>
